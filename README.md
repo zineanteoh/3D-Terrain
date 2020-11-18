@@ -1,5 +1,5 @@
 # 3D-Terrain
- 3D Terrain Generation with Processing
+ A Perlin Noise Generated 3D Terrain with Processing
 
 <p float="left">
   <img src="https://i.imgur.com/CfcTZw3.gif" width="250" height="250"/>
